@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://activatebankofamerica.github.io/bank-of-america-debit-card-activation/sitemap.xml

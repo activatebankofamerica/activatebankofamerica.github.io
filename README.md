@@ -1,1 +1,1 @@
-# activatebankofamerica.github.io
+# activate.bankofamerica.com
